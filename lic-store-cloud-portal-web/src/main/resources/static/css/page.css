@@ -1,0 +1,28 @@
+#ego_pagenator{
+	float: right;
+}
+.ego_page_span {
+	border: 1px solid #D3D3D3;
+	width: 66px;
+	height: 26px;
+	line-height: 26px;
+	display: inline-block;
+	text-align: center;
+	margin-left: 5px;
+}
+#ego_pagenator li{
+	display: inline-block;
+}
+#ego_pagenator li a{
+	display: inline-block;
+	width:26px;
+	height: 26px;
+	line-height: 26px;
+	text-align: center;
+	border: 1px solid #D3D3D3;
+	margin-left: 5px;
+	color:#3A5CBD;
+}
+#ego_pagenator .active a{
+	color:red;
+}

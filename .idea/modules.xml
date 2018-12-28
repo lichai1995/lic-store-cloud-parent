@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lic-store-cloud-common/lic-store-cloud-common.iml" filepath="$PROJECT_DIR$/lic-store-cloud-common/lic-store-cloud-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lic-store-cloud-common-mapper/lic-store-cloud-common-mapper.iml" filepath="$PROJECT_DIR$/lic-store-cloud-common-mapper/lic-store-cloud-common-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lic-store-cloud-common-pojo/lic-store-cloud-common-pojo.iml" filepath="$PROJECT_DIR$/lic-store-cloud-common-pojo/lic-store-cloud-common-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lic-store-cloud-manager-provider/lic-store-cloud-manager-provider.iml" filepath="$PROJECT_DIR$/lic-store-cloud-manager-provider/lic-store-cloud-manager-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lic-store-cloud-manager-service/lic-store-cloud-manager-service.iml" filepath="$PROJECT_DIR$/lic-store-cloud-manager-service/lic-store-cloud-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lic-store-cloud-manager-web/lic-store-cloud-manager-web.iml" filepath="$PROJECT_DIR$/lic-store-cloud-manager-web/lic-store-cloud-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lic-store-cloud-parent.iml" filepath="$PROJECT_DIR$/.idea/lic-store-cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lic-store-cloud-portal-service/lic-store-cloud-portal-service.iml" filepath="$PROJECT_DIR$/lic-store-cloud-portal-service/lic-store-cloud-portal-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lic-store-cloud-portal-web/lic-store-cloud-portal-web.iml" filepath="$PROJECT_DIR$/lic-store-cloud-portal-web/lic-store-cloud-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lic-store-cloud-portal-web/lic-store-cloud-portal-web.iml" filepath="$PROJECT_DIR$/lic-store-cloud-portal-web/lic-store-cloud-portal-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lic-store-cloud-register/lic-store-cloud-register.iml" filepath="$PROJECT_DIR$/lic-store-cloud-register/lic-store-cloud-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lic-store-cloud-register/lic-store-cloud-register.iml" filepath="$PROJECT_DIR$/lic-store-cloud-register/lic-store-cloud-register.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lic-store-cloud-sso-service/lic-store-cloud-sso-service.iml" filepath="$PROJECT_DIR$/lic-store-cloud-sso-service/lic-store-cloud-sso-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lic-store-cloud-sso-web/lic-store-cloud-sso-web.iml" filepath="$PROJECT_DIR$/lic-store-cloud-sso-web/lic-store-cloud-sso-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lic-store-cloud-sso-web/lic-store-cloud-sso-web.iml" filepath="$PROJECT_DIR$/lic-store-cloud-sso-web/lic-store-cloud-sso-web.iml" />
+    </modules>
+  </component>
+</project>

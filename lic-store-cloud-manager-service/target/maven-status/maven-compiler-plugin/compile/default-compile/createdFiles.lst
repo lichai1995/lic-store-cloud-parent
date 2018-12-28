@@ -1,0 +1,12 @@
+com\lic\service\impl\GoodsAttributeServiceImpl.class
+com\lic\service\GoodsAttributeService.class
+com\lic\service\GoodsService.class
+com\lic\service\impl\CacheServiceImpl.class
+com\lic\service\ContentCategoryService.class
+com\lic\service\GoodsCategoryService.class
+com\lic\service\impl\ContentCategoryServiceImpl.class
+com\lic\service\impl\ContentServiceImpl.class
+com\lic\service\CacheService.class
+com\lic\service\ContentService.class
+com\lic\service\impl\GoodsCategoryServiceImpl.class
+com\lic\service\impl\GoodsServiceImpl.class

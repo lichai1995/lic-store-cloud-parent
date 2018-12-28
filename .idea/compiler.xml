@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lic-store-cloud-common" />
+        <module name="lic-store-cloud-common-mapper" />
+        <module name="lic-store-cloud-common-pojo" />
+        <module name="lic-store-cloud-manager-provider" />
+        <module name="lic-store-cloud-manager-service" />
+        <module name="lic-store-cloud-manager-web" />
+        <module name="lic-store-cloud-manager-web (1) (com.sxt)" />
+        <module name="lic-store-cloud-portal-service" />
+        <module name="lic-store-cloud-portal-web" />
+        <module name="lic-store-cloud-register" />
+        <module name="lic-store-cloud-sso-service" />
+        <module name="lic-store-cloud-sso-web" />
+        <module name="lic-store-cloud-web" />
+        <module name="licstorecloudportalservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.8">
+      <module name="lic-store-cloud-common" target="1.8" />
+      <module name="lic-store-cloud-common-mapper" target="1.5" />
+      <module name="lic-store-cloud-common-pojo" target="1.5" />
+      <module name="lic-store-cloud-manager-provider" target="1.8" />
+      <module name="lic-store-cloud-manager-service" target="1.8" />
+      <module name="lic-store-cloud-manager-web" target="1.8" />
+      <module name="lic-store-cloud-parent" target="1.5" />
+      <module name="lic-store-cloud-portal-service" target="1.8" />
+      <module name="lic-store-cloud-portal-web" target="1.8" />
+      <module name="lic-store-cloud-register" target="1.8" />
+      <module name="lic-store-cloud-sso-service" target="1.8" />
+      <module name="lic-store-cloud-sso-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

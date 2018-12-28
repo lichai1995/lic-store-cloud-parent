@@ -1,0 +1,6 @@
+com\lic\mapper\ContentCategoryMapper.class
+com\lic\mapper\GoodsCategoryMapper.class
+com\lic\mapper\AdminMapper.class
+com\lic\mapper\GoodsAttributeMapper.class
+com\lic\mapper\ContentMapper.class
+com\lic\mapper\GoodsMapper.class
